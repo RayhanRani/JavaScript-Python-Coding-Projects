@@ -9,3 +9,4 @@ def same (a):
     return False
   return(same(a[1:-1]))
 print(same(a))
+
